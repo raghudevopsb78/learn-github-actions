@@ -1,7 +1,7 @@
 name: learn-github-actions
 on: [push]
 jobs:
-  Job 1:
+  Job_1:
     runs-on: ubuntu-latest
     steps:
       - name: Code Checkout
